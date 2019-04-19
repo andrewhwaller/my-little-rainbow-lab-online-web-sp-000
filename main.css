@@ -29,3 +29,7 @@ div {
 #blue { /* this selects any elements with the red id */
   border-top-color: blue;
 }
+
+#indigo { /* this selects any elements with the red id */
+  border-top-color: indigo;
+}
