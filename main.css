@@ -22,6 +22,6 @@ div {
   border-top-color: yellow;
 }
 
-#red { /* this selects any elements with the red id */
-  border-top-color: #f00;
+#green { /* this selects any elements with the red id */
+  border-top-color: green;
 }
