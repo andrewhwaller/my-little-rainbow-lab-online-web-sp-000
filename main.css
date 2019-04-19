@@ -13,3 +13,15 @@ div {
 #red { /* this selects any elements with the red id */
   border-top-color: #f00;
 }
+
+#orange { /* this selects any elements with the red id */
+  border-top-color: orange;
+}
+
+#yellow { /* this selects any elements with the red id */
+  border-top-color: yellow;
+}
+
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
